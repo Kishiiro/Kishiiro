@@ -1,5 +1,4 @@
 <h1 align="center">I'm Kish</h1>
-<h3 align="center">I want to Die</h3>
 
 - 🔭 I’m currently Learning on **HTML**
 
