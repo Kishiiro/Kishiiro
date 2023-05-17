@@ -10,6 +10,6 @@
 
 ###
 
-<img width="100%" src="https://github.com/Kishiiro/kishiiro/blob/output/Kishiiro.svg" alt="Animation" />
+<img width="100%" src="https://github.com/Kishiiro/Kishiiro/blob/main/Kishiiro.svg" alt="Animation" />
 
 ###
