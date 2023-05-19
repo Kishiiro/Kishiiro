@@ -1,4 +1,4 @@
-<h1 align="center">I'm Kish</h1>
+<h1 align="center">I'm Dying</h1>
 
 - 🔭 I’m currently Learning on **HTML**
 
