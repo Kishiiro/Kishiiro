@@ -1,6 +1,6 @@
 <h1 align="center">I'm Dying</h1>
 
-- 🔭 I’m currently Learning on **HTML**
+- 🔭 I’m currently Learning.
 
 <p align="left">
 </p>
