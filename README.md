@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am Rolison can call me Aki<br>
+I am Rolison I am a SAP Consultant you can call me Aki<br>
 🔭 I’m currently working on Learning Playwright<br>
 🌱 I’m currently learning Playwright<br>
 💬 Ask me about games and anime
